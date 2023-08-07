@@ -1,4 +1,4 @@
-package hello.member.config;
+package hello.config;
 
 import javax.sql.DataSource;
 
